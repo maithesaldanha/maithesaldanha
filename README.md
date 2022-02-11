@@ -27,10 +27,13 @@
  
  
   ##
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=maisaldanha&cover_image=false&theme=default&bar_color=ee2f7c)](https://github.com/kittinan/spotify-github-profile)
+ 
  
 <div> 
   <a href="https://instagram.com/maithesf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maithedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maith%C3%AA-saldanha-242138207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+##
+ 
