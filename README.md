@@ -1,5 +1,5 @@
-
-<p align="center">
+<h1> Hey there, I'm Mai :) </h1>
+<h3 align="center"> ☆ A fullstack developer, IT technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
  
 </p align="center">
 <img src="hello.jpg" />
@@ -8,8 +8,8 @@
  
 <div align="center">
   <a href="https://github.com/maithesaldanha">
-  <img height="122px" src="https://github-readme-stats.vercel.app/api?username=maithesaldanha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="122px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="122px" src="https://github-readme-stats.vercel.app/api?username=maithesaldanha&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  <img height="122px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 
 <div align= "center"> 
