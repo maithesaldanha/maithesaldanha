@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/maithesaldanha/maithesaldanha/blob/9efb4191a5c0244ed7a4fb11e0a79673df487840/hellogit.jpg" />
+<img src="hellogit.jpg" />
 
 <p align="center">
  
