@@ -6,11 +6,6 @@
 
 <p align="center">
  
-<div align="center">
-  <a href="https://github.com/maithesaldanha">
-  <img height="122px" src="https://github-readme-stats.vercel.app/api?username=maithesaldanha&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-  <img height="122px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</div>
 
 <div align= "center"> 
   <img align="center" alt="Maithe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
