@@ -62,11 +62,6 @@
 
 ✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧✧⋄⋆⋅⋆✧
 
-   <br>
-   
- <div align= "center"> 
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=maisaldanha&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=maisaldanha&redirect=true)
  </div>
  
 
