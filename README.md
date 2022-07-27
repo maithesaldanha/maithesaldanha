@@ -2,7 +2,7 @@
 <h3 align="center"> ☆ A developer, computer technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
  <div align= "center"> 
  <a href="https://github.com/maithesaldanha">
-  <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&theme=swift"/>
   </div>
 <br></br>
 <div align= "center"> 
@@ -18,8 +18,6 @@
   <img align="center" alt="Maithe-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" alt="Maithe-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Maithe-Matlbab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Maithe-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Maithe-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
  
  <br />
