@@ -1,5 +1,5 @@
 <h1> Hey there, I'm Mai :) </h1>
-<h3 align="center"> ☆ A developer, IT technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
+<h3 align="center"> ☆ A developer, computer technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
  
 
 <div align= "center"> 
