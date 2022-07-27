@@ -1,8 +1,9 @@
 <h1> Hey there, I'm Mai :) </h1>
 <h3 align="center"> ☆ A developer, computer technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
- 
+ <div align= "center"> 
  <a href="https://github.com/maithesaldanha">
   <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&theme=radical"/>
+  </div>
 <br></br>
 <div align= "center"> 
   <img align="center" alt="Maithe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
