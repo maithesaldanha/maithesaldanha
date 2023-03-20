@@ -2,7 +2,6 @@
 <h3 align="center"> ☆ A developer, computer technician and I’m also studying a bachelor’s degree in physics at UFSM ☆ </h3>
  <div align= "center"> 
  <a href="https://github.com/maithesaldanha">
-  <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithesaldanha&layout=compact&langs_count=7&theme=swift"/>
   </div>
 <br></br>
 <div align= "center"> 
