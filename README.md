@@ -1,5 +1,5 @@
 <h1> Hey there, I'm Mai :) </h1>
-<h3 align="center"> ☆ A developer, IT technician and I’m also studying a bachelor’s degree in physics and in software engineering ☆ </h3>
+<h3 align="center"> ☆ A software engineer, IT technician and I’m also studying a bachelor’s degree in physics ☆ </h3>
  <div align= "center"> 
  <a href="https://github.com/maithesaldanha">
   </div>
