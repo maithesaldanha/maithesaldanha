@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Mai</h1>
 
 <p align="center">
-Software Engineer • IT Technician • Physics
+Software Engineer • IT Technician • Interested in Physics, Programming Languages and Distributed Systems
 </p>
 
 ---
